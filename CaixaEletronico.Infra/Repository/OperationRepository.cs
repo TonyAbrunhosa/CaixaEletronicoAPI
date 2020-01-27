@@ -15,7 +15,10 @@ namespace CaixaEletronico.Infra.Repository
 
 		public OperationRepository()
 		{
-			CreateAccout();
+			if (ListAccounts.Count == 0)
+			{
+				CreateAccout();
+			}			
 		}
 
 		public async void ExecuteTransaction(OperationViewModel model, decimal valor)

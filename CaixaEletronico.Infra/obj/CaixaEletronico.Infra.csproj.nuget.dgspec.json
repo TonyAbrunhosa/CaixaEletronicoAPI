@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {}
+    "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
+    "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
+        "projectUniqueName": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
         "projectName": "CaixaEletronico.Application",
-        "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
+        "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
         "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\obj\\",
+        "outputPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj": {
-                "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj"
+              "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj": {
+                "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj": {
+    "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
+        "projectUniqueName": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
         "projectName": "CaixaEletronico.Domain",
-        "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
+        "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
         "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\obj\\",
+        "outputPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {
+    "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj",
+        "projectUniqueName": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj",
         "projectName": "CaixaEletronico.Infra",
-        "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj",
+        "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj",
         "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\obj\\",
+        "outputPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -160,8 +160,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
-                "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj"
+              "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
+                "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj"
               }
             }
           }

@@ -9668,11 +9668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronicoApi\\CaixaEletronicoApi.csproj",
+      "projectUniqueName": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronicoApi.csproj",
       "projectName": "CaixaEletronicoApi",
-      "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronicoApi\\CaixaEletronicoApi.csproj",
+      "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronicoApi.csproj",
       "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronicoApi\\obj\\",
+      "outputPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9693,11 +9693,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
-              "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj"
+            "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj": {
+              "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj"
             },
-            "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {
-              "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj"
+            "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj": {
+              "projectPath": "C:\\CaixaEletronicoAPI\\CaixaEletronicoAPI\\CaixaEletronico.Infra\\CaixaEletronico.Infra.csproj"
             }
           }
         }
