@@ -6,6 +6,7 @@ using CaixaEletronico.Application.Interface.IService;
 using CaixaEletronico.Application.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 
 namespace CaixaEletronicoAPI.Controllers
 {
@@ -21,52 +22,87 @@ namespace CaixaEletronicoAPI.Controllers
         }
 
         [HttpPost]
-        [Route("Withdraw")]
+        [Authorize]
+        [Route("Withdraw")]        
+        [ProducesResponseType(typeof(bool), StatusCodes.Status200OK)]
         public async Task<IActionResult> Withdraw([FromBody] OperationViewModel model)
         {
             try
             {
-                return Ok(await _service.Withdraw(model));
+                if (ModelState.IsValid)
+                    return Ok(new { Mensagem = await _service.Withdraw(model) });
+                else
+                    return BadRequest();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return BadRequest();
-            }            
+                return BadRequest(new
+                {
+                    Resultado = false,
+                    Erro = ex.Message,
+                    PilhaErro = ex.StackTrace
+                });
+            }
         }
 
         [HttpPost]
+        [Authorize]
         [Route("Deposit")]
+        [ProducesResponseType(typeof(bool), StatusCodes.Status200OK)]
         public async Task<IActionResult> Deposit([FromBody] OperationViewModel model)
         {
             try
             {
-                return Ok(await _service.Deposit(model));
+                if (ModelState.IsValid)
+                    return Ok(new { Menssagem = await _service.Deposit(model) });
+                else
+                    return BadRequest();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return BadRequest();
+                return BadRequest(new
+                {
+                    Resultado = false,
+                    Erro = ex.Message,
+                    PilhaErro = ex.StackTrace
+                });
             }
-            
+
         }
 
         [HttpPost]
-        [Route("Deposit")]
-        public async Task<IActionResult> Balance([FromBody] OperationViewModel model)
+        [Authorize]
+        [Route("Balance")]
+        [ProducesResponseType(typeof(bool), StatusCodes.Status200OK)]
+        public async Task<IActionResult> Balance([FromBody] OperationBalanceVM model)
         {
             try
             {
-                return Ok(await _service.Balance(model));
+                if (ModelState.IsValid)
+                {                  
+                    return Ok(new { Saldo =  await _service.Balance(model)});
+                }
+                else
+                {
+                    return BadRequest();
+                }
+                
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return BadRequest();
-            }            
+                return BadRequest(new
+                {
+                    Resultado = false,
+                    Erro = ex.Message,
+                    PilhaErro = ex.StackTrace
+                });
+            }
         }
 
         [HttpGet]
         public IActionResult Get()
         {
-            return BadRequest();
+            return Ok("Versão v01");
         }
     }
 }

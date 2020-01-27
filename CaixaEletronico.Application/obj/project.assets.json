@@ -2341,6 +2341,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "CaixaEletronico.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CaixaEletronico.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaixaEletronico.Domain.dll": {}
+        }
       }
     }
   },
@@ -7295,10 +7305,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "CaixaEletronico.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CaixaEletronico.Domain/CaixaEletronico.Domain.csproj",
+      "msbuildProject": "../CaixaEletronico.Domain/CaixaEletronico.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "CaixaEletronico.Domain >= 1.0.0",
       "FluentValidation.AspNetCore >= 8.6.1",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -7311,11 +7327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
       "projectName": "CaixaEletronico.Application",
-      "projectPath": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
+      "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\CaixaEletronico.Application.csproj",
       "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Application\\obj\\",
+      "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7335,7 +7351,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj": {
+              "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CaixaEletronicoAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CaixaEletronicoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CaixaEletronicoAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CaixaEletronicoAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("CaixaEletronicoApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CaixaEletronicoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

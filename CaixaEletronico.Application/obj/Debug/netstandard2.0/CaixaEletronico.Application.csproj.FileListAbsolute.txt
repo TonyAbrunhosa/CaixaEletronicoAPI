@@ -9,3 +9,14 @@ C:\Users\Tony Abrunhosa\Desktop\API\CaixaEletronico.Application\obj\Debug\netsta
 C:\Users\Tony Abrunhosa\Desktop\API\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.csproj.CopyComplete
 C:\Users\Tony Abrunhosa\Desktop\API\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.dll
 C:\Users\Tony Abrunhosa\Desktop\API\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.pdb
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\bin\Debug\netstandard2.0\CaixaEletronico.Application.deps.json
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\bin\Debug\netstandard2.0\CaixaEletronico.Application.dll
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\bin\Debug\netstandard2.0\CaixaEletronico.Application.pdb
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\bin\Debug\netstandard2.0\CaixaEletronico.Domain.dll
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\bin\Debug\netstandard2.0\CaixaEletronico.Domain.pdb
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.csprojAssemblyReference.cache
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.AssemblyInfoInputs.cache
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.AssemblyInfo.cs
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.csproj.CopyComplete
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.dll
+C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Application\obj\Debug\netstandard2.0\CaixaEletronico.Application.pdb

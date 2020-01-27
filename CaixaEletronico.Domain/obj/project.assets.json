@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
       "projectName": "CaixaEletronico.Domain",
-      "projectPath": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
+      "projectPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\CaixaEletronico.Domain.csproj",
       "packagesPath": "C:\\Users\\Tony Abrunhosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tony Abrunhosa\\Desktop\\API\\CaixaEletronico.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Tony Abrunhosa\\source\\repos\\CaixaEletronico.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
