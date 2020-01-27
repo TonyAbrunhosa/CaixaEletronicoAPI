@@ -24,3 +24,16 @@ C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Infra\obj\Debug\netstandard
 C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.csproj.CopyComplete
 C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.dll
 C:\Users\Tony Abrunhosa\source\repos\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.pdb
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Infra.deps.json
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Infra.dll
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Infra.pdb
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Application.dll
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Domain.dll
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Application.pdb
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\bin\Debug\netstandard2.0\CaixaEletronico.Domain.pdb
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.csprojAssemblyReference.cache
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.AssemblyInfoInputs.cache
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.AssemblyInfo.cs
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.csproj.CopyComplete
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.dll
+C:\CaixaEletronicoAPI\CaixaEletronicoAPI\CaixaEletronico.Infra\obj\Debug\netstandard2.0\CaixaEletronico.Infra.pdb
